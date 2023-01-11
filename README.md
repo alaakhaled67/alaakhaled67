@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alaakhaled67
+- 👋 Hi, I’m @alaakhaled
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning more in android with kotlin
 - 💞️ I’m looking to collaborate on companies training 
